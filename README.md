@@ -32,8 +32,21 @@
 <!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
 </div>
 
+
 <br>
-<h3 align="left">실습문제</h3>
+<br>
+<h3 align="left">진행중인 프로젝트</h3>
+<ul align="left">
+<li>AI vision을 이용한 자동 재활용 쓰레기 분류 기계</li>
+  
+<li>Nu:speck : AI뉴스에이전트</li>
+</ul>
+
+
+
+<br>
+<br>
+<h3 align="left">코딩 연습</h3>
 <h4 align="left">   2025.04</h4>
 <ul align="left">
 <li>숫자 Up Down 맞추기</li>
@@ -48,16 +61,7 @@
 <li>큐를 활용한 미로찾기</li>
 </ul>
 
-<br>
-<h3 align="left">진행중인 프로젝트</h3>
-<ul align="left">
-<li></li>
-<li></li>
-</ul>
 
-
-
-<br>
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
