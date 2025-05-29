@@ -46,7 +46,7 @@
 
 <br>
 <br>
-<h3 align="left">코딩 연습</h3>
+<h3 align="left">알고리즘 문제</h3>
 <h4 align="left">   2025.04</h4>
 <ul align="left">
 <li>숫자 Up Down 맞추기</li>
