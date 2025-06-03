@@ -2,7 +2,9 @@
 
 <div align="center">
   안녕하세요, 한국에서 개발을 공부중인 이민솔입니다.<br>
-  Hello, I'm Minsol Lee. I'm a student studying development in Korea.
+  이 레포지토리는 제가 공부한 파이썬 알고리즘 문제를 기록하기 위한 곳입니다. :D<br>
+  Hello, I'm Minsol Lee. I'm a student studying development in Korea.<br>
+  This repository is a place to document Python algorithmic problems I've studied. :D<br>
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -32,33 +34,21 @@
 <!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
 </div>
 
-
-<br>
-<br>
-<h3 align="left">진행중인 프로젝트</h3>
-<ul align="left">
-<li>AI vision을 이용한 자동 재활용 쓰레기 분류 기계</li>
-  
-<li>Nu:speck : AI뉴스에이전트</li>
-</ul>
-
-
-
 <br>
 <br>
 <h3 align="left">알고리즘 문제</h3>
 <h4 align="left">   2025.04</h4>
 <ul align="left">
-<li>숫자 Up Down 맞추기</li>
+<li<a href="https://github.com/MintsaIt/Algorithm/blob/Polytech-AI-software-class/UpDown_%EA%B2%8C%EC%9E%84.ipynb">숫자 Up Down 맞추기</li>
 <li><a href="https://github.com/MintsaIt/Mintport/blob/Polytech-AI-software-class/%EC%9D%B4%EB%AF%BC%EC%86%94_%EC%84%B1%EC%A0%81%EC%9E%85%EB%A0%A5_class%ED%99%9C%EC%9A%A9.ipynb">학년, 반, 번호 성적 조회 지원함수</a></li>
 <li><a href="https://github.com/MintsaIt/Mintport/blob/Polytech-AI-software-class/%EC%9D%B4%EB%AF%BC%EC%86%94_%EB%B3%BC%EB%A7%81%EA%B2%8C%EC%9E%84_Class%ED%99%9C%EC%9A%A9_250416.ipynb">볼링 게임</a></li>
-<li>더치 페이</li>
+<li><a href="https://github.com/MintsaIt/Algorithm/blob/main/(%EC%9D%B4%EB%AF%BC%EC%86%94)%EB%8D%94%EC%B9%98%ED%8E%98%EC%9D%B4_250416.ipynb">더치 페이</li>
 </ul>
 
 <h4 align="left">   2025.05</h4>
 <ul align="left">
-<li>중위수식 후위변환</li>
-<li>큐를 활용한 미로찾기</li>
+<li><a href="https://github.com/MintsaIt/Algorithm/blob/Polytech-AI-software-class/%EC%9D%B4%EB%AF%BC%EC%86%94_%EC%A4%91%EC%9C%84%EC%88%98%EC%8B%9D_%ED%9B%84%EC%9C%84%EC%A0%84%ED%99%98%ED%95%A8%EC%88%98.ipynb">중위수식 후위변환</li>
+<li><a href="https://github.com/MintsaIt/Algorithm/blob/Polytech-AI-software-class/%EC%9D%B4%EB%AF%BC%EC%86%94_%EB%AF%B8%EB%A1%9C%EC%B0%BE%EA%B8%B0_250512.ipynb">큐를 활용한 미로찾기</li>
 </ul>
 
 
