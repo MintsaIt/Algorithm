@@ -39,7 +39,7 @@
 <h3 align="left">알고리즘 문제</h3>
 <h4 align="left">   2025.04</h4>
 <ul align="left">
-<li<a href="https://github.com/MintsaIt/Algorithm/blob/Polytech-AI-software-class/UpDown_%EA%B2%8C%EC%9E%84.ipynb">숫자 Up Down 맞추기</li>
+<li><a href="https://github.com/MintsaIt/Algorithm/blob/Polytech-AI-software-class/UpDown_%EA%B2%8C%EC%9E%84.ipynb">숫자 Up Down 맞추기</li>
 <li><a href="https://github.com/MintsaIt/Mintport/blob/Polytech-AI-software-class/%EC%9D%B4%EB%AF%BC%EC%86%94_%EC%84%B1%EC%A0%81%EC%9E%85%EB%A0%A5_class%ED%99%9C%EC%9A%A9.ipynb">학년, 반, 번호 성적 조회 지원함수</a></li>
 <li><a href="https://github.com/MintsaIt/Mintport/blob/Polytech-AI-software-class/%EC%9D%B4%EB%AF%BC%EC%86%94_%EB%B3%BC%EB%A7%81%EA%B2%8C%EC%9E%84_Class%ED%99%9C%EC%9A%A9_250416.ipynb">볼링 게임</a></li>
 <li><a href="https://github.com/MintsaIt/Algorithm/blob/main/(%EC%9D%B4%EB%AF%BC%EC%86%94)%EB%8D%94%EC%B9%98%ED%8E%98%EC%9D%B4_250416.ipynb">더치 페이</li>
