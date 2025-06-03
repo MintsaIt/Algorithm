@@ -6,9 +6,6 @@
   Hello, I'm Minsol Lee. I'm a student studying development in Korea.<br>
   This repository is a place to document Python algorithmic problems I've studied. :D<br>
 </div>
-
-<h3 align="center">✨ Tech Stack ✨</h3>
-
 <br>
 
 <h3 align="center">📚 Studying 📚</h3>
